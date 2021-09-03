@@ -10,7 +10,7 @@ labels:
   - Robotics
   - FIRST Robotics Competition
   - C++
-summary: My team developed a robot to complete the challenges presented in the 2019 FRC competition "Destination: Deep Space". 
+summary: My team developed a robot to complete the challenges presented in the 2019 FRC competition. 
 ---
 
 
