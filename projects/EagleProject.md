@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/eagle.jpg
-title: EagleProject
+title: Eagle Project
 permalink: projects/Eagle
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
