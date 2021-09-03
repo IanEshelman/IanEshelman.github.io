@@ -111,9 +111,10 @@
   ],
   "awards": [
     {
+      "type": "award",
       "title": "Eagle Scout",
-      "year": "2016",
-      "description": "The highest rank in the Boy Scouts of America"
+      "date": "November 2016",
+      "summary": "The highest rank in the Boy Scouts of America"
     }
   ],
   "references": [
