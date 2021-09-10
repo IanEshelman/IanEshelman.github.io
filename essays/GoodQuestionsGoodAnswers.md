@@ -12,6 +12,8 @@ labels:
 
 Sites and forums such as StackOverflow have become extremly important to the global network of programmers and developers. If you ever get stuck trying to make an algoritm or trhoubleshoot a function, StackOverflow will either have the answer, or someone who can amswer your question. However, as anyone who has asked a question on the site should know, if you don't put any work into your question, your question will be ridiculed, locked, and downvoted into oblivion. Luckily, as long as you put some effort into googling your issue and writing your question in an informed way, you can get high-quality help. 
 
+![Stack Overflow Logo](../images/stackoverflow.jpg)
+
 To provide an example of a poorly worderd question, we have this one [here](https://stackoverflow.com/questions/26439695/10-pin-bowling-score-calculator-in-javascript) by user "enigma coder". Their post is very short, so I'll quote it in its entierty here:
 >I have been tasked with creating a bowling score calculator in javascript.
 >I am a complete newbie to javascript so I'm not sure where to start. Are there any simple examples of this specific project I can use as reference?
