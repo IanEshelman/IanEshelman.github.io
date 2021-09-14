@@ -19,6 +19,6 @@ The process for getting this program to work was quite a long one, as every time
 
 <img class="ui medium right floated rounded image" src="../images/RacerLayers.png">
 
-The most important thing that this project taught me is that working with others in parallel can be a really powerful tool. Since everyone had a similar end goal, and since the networks all took a while to train, we worked with each other on improving and troubleshooting each other's networks. If I had to work on this project completely alone, my racer would probably never have been able to drive as well as I got it to.
+The most important thing that this project taught me was that working with others in parallel can be a really powerful tool. Since everyone had a similar end goal, and since the networks all took a while to train, we worked with each other on improving and troubleshooting each other's networks. If I had to work on this project completely alone, my racer would probably never have been able to drive as well as I got it to.
 
 Google CoLab file can be found [here](https://drive.google.com/file/d/1AaNhgcUaKcjMv4nQx26L_rMpXYfGoClb/view?usp=sharing).
