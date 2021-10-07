@@ -15,3 +15,13 @@ labels:
     
   Most frameworks basically boil down to a pre-set stylesheet and a Javascript backend to make the magic happen. Instead of banging one's head against the wall, trying to get the margins of an image set to line up with a paired image perfectly, a framework with the desired formatting tool could be utilized. Even if you have a god-like understanding of HTML and CSS, using a framework like Semantic UI shortens the time needed to set up commonly used layouts such as headers and footers.  
     
+As an example of the usefullness of frameworks, we will be recreating the following header using both Semantic UI and basic HTML/CSS:
+*Image of Header*
+
+Using just HTML and CSS, with no framework, we need to do the following:
+*Code Snippet*
+
+Now using Semantic UI, we can shorten all of that down to just this:
+*Code Snippet*
+
+At this point it is apparent that while the same goal can be achieved with or without a framework, using one can make the job much easier.
