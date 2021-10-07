@@ -22,6 +22,26 @@ Using just HTML and CSS, with no framework, we need to do the following:
 *Code Snippet*
 
 Now using Semantic UI, we can shorten all of that down to just this:
-*Code Snippet*
+```
+<div class="ui borderless menu" style="background-color: #e6e6e6">
+  <div class="ui container">
+    <div class="fitted item"><i class="facebook icon"></i></div>
+    <div class="fitted item"><i class="twitter icon"></i></div>
+    <div class="fitted item"><i class="pinterest icon"></i></div>
+    <div class="fitted item"><i class="instagram icon"></i></div>
+
+    <div class="fitted right item"><i class="home icon"></i></div>
+    <div class="fitted item"><i class="search icon"></i></div>
+    <div class="fitted item"><i class="user icon"></i></div>
+    <div class="ui fitted item dropdown">
+      <div class="text">MY CART <i class="shopping cart icon"></i> 0</div>
+      <i class="dropdown icon"></i>
+      <div class="menu">
+        <div class="item">Your cart is currently empty.</div>
+      </div>
+    </div>
+  </div>
+</div>
+```
 
 At this point it is apparent that while the same goal can be achieved with or without a framework, using one can make the job much easier.
