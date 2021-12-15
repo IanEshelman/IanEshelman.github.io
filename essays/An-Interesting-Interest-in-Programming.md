@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: An Interesting Interest in Programming
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
