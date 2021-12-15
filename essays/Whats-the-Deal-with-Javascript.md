@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Whats the Deal with Javascript?
 # All dates must be YYYY-MM-DD format!
 date: 2021-08-31
