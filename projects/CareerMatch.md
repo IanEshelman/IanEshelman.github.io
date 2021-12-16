@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://career-match.github.io/doc/screenshots/landing.png
+image: images/CareerMatch.png
 title: Career Match
 permalink: projects/CareerMatch
 # All dates must be YYYY-MM-DD format!
